@@ -1,0 +1,12 @@
+.venv/
+
+__pycache__/
+*.pyc
+
+.vscode/
+
+.ipynb_checkpoints
+
+.envrc
+
+data_cache/youtube_videos

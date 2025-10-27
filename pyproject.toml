@@ -1,0 +1,22 @@
+[project]
+name = "ai-bootcamp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "elasticsearch==9.1.1",
+    "fastmcp>=2.12.5",
+    "groq>=0.32.0",
+    "jupyter>=1.1.1",
+    "minsearch>=0.0.7",
+    "openai-agents==0.3.3",
+    "pydantic-ai[mcp]>=1.1.0",
+    "python-frontmatter>=1.1.0",
+    "qdrant-client[fastembed]>=1.15.1",
+    "requests>=2.32.5",
+    "sentence-transformers>=5.1.1",
+    "toyaikit>=0.0.5",
+    "tqdm>=4.67.1",
+    "youtube-transcript-api>=1.2.2",
+]
